@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\org",
+    "\\src\\test\\java\\org\\example"
+  ],
+  "SelectedNode": "\\src\\test\\java\\org\\example\\StorageTest.java",
+  "PreviewInSolutionExplorer": false
+}
